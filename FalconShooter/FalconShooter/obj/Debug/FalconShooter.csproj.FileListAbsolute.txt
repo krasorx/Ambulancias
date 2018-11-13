@@ -1,0 +1,10 @@
+C:\Users\luise\source\repos\FalconShooter\FalconShooter\bin\Debug\FalconShooter.exe.config
+C:\Users\luise\source\repos\FalconShooter\FalconShooter\bin\Debug\FalconShooter.exe
+C:\Users\luise\source\repos\FalconShooter\FalconShooter\bin\Debug\FalconShooter.pdb
+C:\Users\luise\source\repos\FalconShooter\FalconShooter\obj\Debug\FalconShooter.csprojAssemblyReference.cache
+C:\Users\luise\source\repos\FalconShooter\FalconShooter\obj\Debug\FalconShooter.Properties.Resources.resources
+C:\Users\luise\source\repos\FalconShooter\FalconShooter\obj\Debug\FalconShooter.csproj.GenerateResource.cache
+C:\Users\luise\source\repos\FalconShooter\FalconShooter\obj\Debug\FalconShooter.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\FalconShooter\FalconShooter\obj\Debug\FalconShooter.exe
+C:\Users\luise\source\repos\FalconShooter\FalconShooter\obj\Debug\FalconShooter.pdb
+C:\Users\luise\source\repos\FalconShooter\FalconShooter\obj\Debug\FalconShooter.FrmMain.resources
