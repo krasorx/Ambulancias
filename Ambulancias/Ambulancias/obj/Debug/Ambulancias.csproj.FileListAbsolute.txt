@@ -1,0 +1,10 @@
+C:\Users\luise\source\repos\Ambulancias\Ambulancias\bin\Debug\Ambulancias.exe.config
+C:\Users\luise\source\repos\Ambulancias\Ambulancias\bin\Debug\Ambulancias.exe
+C:\Users\luise\source\repos\Ambulancias\Ambulancias\bin\Debug\Ambulancias.pdb
+C:\Users\luise\source\repos\Ambulancias\Ambulancias\obj\Debug\Ambulancias.csprojAssemblyReference.cache
+C:\Users\luise\source\repos\Ambulancias\Ambulancias\obj\Debug\Ambulancias.Form1.resources
+C:\Users\luise\source\repos\Ambulancias\Ambulancias\obj\Debug\Ambulancias.Properties.Resources.resources
+C:\Users\luise\source\repos\Ambulancias\Ambulancias\obj\Debug\Ambulancias.csproj.GenerateResource.cache
+C:\Users\luise\source\repos\Ambulancias\Ambulancias\obj\Debug\Ambulancias.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\Ambulancias\Ambulancias\obj\Debug\Ambulancias.exe
+C:\Users\luise\source\repos\Ambulancias\Ambulancias\obj\Debug\Ambulancias.pdb
